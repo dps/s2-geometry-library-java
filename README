@@ -1,0 +1,8 @@
+Clone of Google's s2-geometry-library-java project from https://code.google.com/p/s2-geometry-library-java/
+
+See
+  https://docs.google.com/presentation/d/1Hl4KapfAENAOf4gv-pSngKwvS_jwNVHRPZTTDzXXn6Q
+for more info.
+
+There is a prebuilt jar file at
+  prebuilts/s2-geometry-java.jar
